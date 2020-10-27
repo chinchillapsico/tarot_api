@@ -1,0 +1,30 @@
+body{
+  background-image: url('../img/wall.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color:#b79123;
+  font-family: 'Crimson Text', serif;
+  font-size: 1.3em;
+}
+h1{
+  text-align: center;
+  padding: 3rem 4rem;
+}
+#deck{
+  width: 22rem;
+  padding: 1rem;;
+}
+#deck:hover {
+  cursor: pointer;
+}
+
+.card {
+  width: 15.5rem;
+  margin-left: 50px;
+  margin-bottom: 100px;
+}
+
+.card:hover {
+  cursor: pointer;
+}
